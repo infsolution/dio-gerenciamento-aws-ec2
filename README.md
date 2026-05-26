@@ -12,6 +12,6 @@ Snapshots com EBS
 Elastic Block Store - Armazenamento em blocos, funcionam como volumes de disco, se encaixa com IAAS
 Serviço de backup nativo da AWS, com frequência configurável, as imagens são armazenadas no S3.
 Possui custo por região 
-![aws](./images/Captura de tela de 2026-05-26 09-31-45.png)
+![Alt aws](../images/Captura de tela de 2026-05-26 09-31-45.png)
 
 
